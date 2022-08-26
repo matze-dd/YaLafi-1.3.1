@@ -1,6 +1,14 @@
 
 # YaLafi: Yet another LaTeX filter
 
+**\*\*\***<br>
+**\*\*\*&emsp;THIS REPOSITORY HAS BEEN ARCHIVED**<br>
+**\*\*\***<br>
+**\*\*\*&emsp;Development continues under
+        [<ins>torik42/YaLafi</ins>](https://github.com/torik42/YaLafi) since August 2022.**<br>
+**\*\*\*&emsp;Thank you sincerely, [<ins>@torik42<ins>](https://github.com/torik42), for taking over!**<br>
+**\*\*\***
+
 **Notice.**
 The library of LaTeX macros, environments, document classes, and packages is
 still rather restricted, compare the [list of macros](list-of-macros.md).
